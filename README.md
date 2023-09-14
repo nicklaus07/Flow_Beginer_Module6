@@ -13,8 +13,10 @@ Run the MintNFT tracnsaction.
 Run the GetID script to get the nft id for running the main script.
 Run the MetaData Script and it will return the data from the created nft.
 
-##Author
+## Author
+
 [Nicholas Adesina](https://github.com/nicklaus07)
 
-##License
-This project is licensed under the MIT License.
+## License
+
+This project is licensed under the [MIT License](LICENSE).
