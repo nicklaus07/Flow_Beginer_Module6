@@ -2,9 +2,11 @@
 ## NFT-Project
 This is a Non-Fungible Token (NFT) implementation project on the Flow blockchain. The project uses the Flow Non-Fungible Token standard to create, manage, and interact with NFTs. By addding the borrowAuthNFT function to it, it will be accessible to the public such that they can read the MetaData of our NFT.
 
-##Requirements
+## Requirements
+
 - [Flow Playground](https://play.flow.com)
 - Cadence Language
+
 
 How to Use
 Create your Contracts, Transactions and Scripts files on the [Flow Playground](https://play.flow.com).
