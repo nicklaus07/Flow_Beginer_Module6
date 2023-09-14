@@ -8,7 +8,8 @@ This is a Non-Fungible Token (NFT) implementation project on the Flow blockchain
 - Cadence Language
 
 
-How to Use
+##How to Use
+
 Create your Contracts, Transactions and Scripts files on the [Flow Playground](https://play.flow.com).
 Run the CreateCollection transaction.
 Run the MintNFT tracnsaction.
